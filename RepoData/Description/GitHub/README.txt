@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Java the Hutt and .jar.jar, Java joke repository. Parody of Jabba the Hutt and Jar Jar Binks from the Star Wars media franchise.
